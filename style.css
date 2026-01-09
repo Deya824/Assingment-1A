@@ -6,6 +6,7 @@
     box-sizing: border-box; 
 }
 body{
+    font-family: 'Inter', sans-serif;
     color: black;
     background-color:rgba(255, 255, 255, 1);
     overflow-x: hidden; 
@@ -312,8 +313,8 @@ margin-bottom: 45.5px;
     flex: 1;
     display: flex;
     
+  justify-content: center;
    
-   justify-content: center;
 }
 
 .knowledge-img img {
