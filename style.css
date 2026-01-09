@@ -76,7 +76,7 @@ font-weight: 500;
 }
 .head-bg {
     
-    background: linear-gradient(rgba(0, 25, 49, 0.000008), rgba(0, 25, 49, 0.8)), 
+    background: linear-gradient(rgba(0, 25, 49, 0.000008), rgba(0, 25, 49, 0.3)), 
                 url('./assets/hero-bg.png');
 
     background-size: cover;      
@@ -313,7 +313,7 @@ margin-bottom: 45.5px;
     display: flex;
     
    
-    justify-content: flex-start; 
+   justify-content: center;
 }
 
 .knowledge-img img {
