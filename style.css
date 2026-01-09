@@ -299,15 +299,15 @@ margin-bottom: 45.5px;
 /* -Knowledge Section L  */
 .knowledge {
     display: flex;
-    align-items: center;
+   align-items: center;
     justify-content: space-between;
     margin: 0px;
     
     padding-top: 24px;
     padding-bottom: 120px;
+    margin-left: -15px;
+
 }
-
-
 .knowledge-img {
     flex: 1;
     display: flex;
@@ -377,12 +377,12 @@ margin-bottom: 45.5px;
     object-fit: contain;
 }
 
-.cta {
+.ready {
   
     padding-bottom: 120px;
 }
 
-.cta-box {
+.ready-box {
     border-radius: 12px;
 background: rgba(247, 246, 242, 1);
     
@@ -394,14 +394,14 @@ background: rgba(247, 246, 242, 1);
     text-align: center;
 }
 
-.cta-box h2 {
+.ready-box h2 {
     font-size: 40px;
 font-weight: 700;
     color: rgba(0, 25, 49, 1);
     margin-bottom: 16px;
 }
 
-.cta-box p {
+.ready-box p {
     font-size: 16px;
 
     color: rgba(98, 115, 130, 1);
@@ -410,7 +410,7 @@ font-weight: 700;
 }
 
 
-.btn-cta {
+.btn-ready {
     
     display: flex;
     align-items: center;
@@ -428,7 +428,7 @@ font-weight: 700;
     
 }
 
-.btn-cta:hover {
+.btn-ready:hover {
     transform: scale(1.05);  
 }
 .arrow{
